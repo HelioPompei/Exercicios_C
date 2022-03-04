@@ -14,7 +14,7 @@ void main() {
 
     funcionario funcionario1;
 
-    // Recolher dados dos funcionario1 do tipo "funcionario" que é uma estrutura. 
+    // Recolher dados do funcionario1 do tipo "funcionario" que é uma estrutura. 
 
     printf("Digite o nome do funcionario : \n");
     scanf("%[^\n]s", &funcionario1.nome);
